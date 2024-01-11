@@ -1,5 +1,4 @@
-import './App.css';
-import Clock from './components/clock/clock';
+import Clock from "./components/clock/clock";
 
 function App() {
   return (
@@ -10,3 +9,5 @@ function App() {
 }
 
 export default App;
+
+
