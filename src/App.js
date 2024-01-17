@@ -3,9 +3,9 @@ import Clock from "./components/clock/clock";
 
 function App() {
   return (
-    <div className="widget-container">
-      <Clock/>      
-    </div>
+      <div className="widget-container">
+        <Clock/>      
+      </div>
   );
 }
 
